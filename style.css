@@ -1,0 +1,14 @@
+div{
+	background-color: rgb(100, 172, 153);
+	padding: 10px;
+}
+li{
+	list-style: none;
+
+}
+li:nth-child(even){
+	background-color: rgb(95, 255, 231);
+}
+li:nth-child(even){
+	background-color: rgba(101, 71, 142, 0.715);
+}
